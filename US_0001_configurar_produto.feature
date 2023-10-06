@@ -21,13 +21,15 @@
             Quando eu tento adicionar <quantidade> produtos ao carrinho
             Então o sistema deve permitir apenas até 10 produtos
 
-            Cenário: Limpar seleções
-            Dado que eu fiz algumas seleções de produto
-            Quando eu clico no botão "limpar"
-            Então todas as minhas seleções devem ser desfeitas e o estado deve voltar ao original
-
             Exemplos:
             | quantidade |
             | 5          |
             | 10         |
             | 15         |
+
+            Cenário: Limpar seleções
+            Dado que eu fiz algumas seleções de produto
+            Quando eu clico no botão "limpar"
+            Então todas as minhas seleções devem ser desfeitas e o estado deve voltar ao original
+
+            
