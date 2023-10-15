@@ -1,0 +1,41 @@
+[
+  {
+    "nome": "Raphael",
+    "sobrenome": "Lima",
+    "empresa": "loja",
+    "pais": "Brasil",
+    "endereco": "Av. Meriti",
+    "numero": "10",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro",
+    "cep": "20040040",
+    "telefone": "21986598659",
+    "email": "teste@teste.com.br"
+  },
+  {
+    "nome": "Juciane",
+    "sobrenome": "Lopes",
+    "empresa": "loja",
+    "pais": "Brasil",
+    "endereco": "Av. Automovel club",
+    "numero": "11",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro",
+    "cep": "20040040",
+    "telefone": "21986598659",
+    "email": "teste@teste.com.br"
+  },
+  {
+    "nome": "Enzo",
+    "sobrenome": "Lopes",
+    "empresa": "loja",
+    "pais": "Brasil",
+    "endereco": "Av. Meriti",
+    "numero": "5000",
+    "cidade": "Rio de Janeiro",
+    "estado": "Rio de Janeiro",
+    "cep": "20040040",
+    "telefone": "21986599568",
+    "email": "teste@teste.com.br"
+  }
+]
